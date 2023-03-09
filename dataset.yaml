@@ -1,5 +1,3 @@
-Plant-Disease-classification-Detection_using-YOLOV6/data/images/train/
-
 train: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/train
 val: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/val
 test: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/test
