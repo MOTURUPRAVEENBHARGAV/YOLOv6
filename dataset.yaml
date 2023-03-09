@@ -1,0 +1,9 @@
+Plant-Disease-classification-Detection_using-YOLOV6/data/images/train/
+
+train: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/train
+val: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/val
+test: /kaggle/working/Plant-Disease-classification-Detection_using-YOLOV6/data/images/test
+
+is_coco: False
+nc: 10
+names: ["Early Blight","Bacterial Spot","Late Blight","Mosaic Virus","Yello Leaf Curl Virus","Leaf Mold","Septorial Leaf Spot","Spider Mite","Healthy","Target Spot"]
